@@ -5,7 +5,10 @@
       "readyToPlay": 20,
       "pressContinue": 50,
       "greatJob": 20,
-      "onePlusOne": 30
+      "onePlusOne": 30,
+      "newGame": 20,
+      "continue": 20,
+      "level0": 20
     }
   },
   "en": {
@@ -16,6 +19,7 @@
     "onePlusOne": "One + One = Two",
     "newGame": "New Game",
     "continue": "Continue",
+    "level0" : "Level 0",
     "pantry": "Pantry",
     "purchasePan": "Purchase Pan  <color=#F9DD3B>{0}</color>",
     "autoSave": "...Auto Saving Complete"
@@ -25,7 +29,10 @@
     "readyToPlay": "¿Estás listo para jugar?",
     "greatJob": "¡Gran trabajo!",
     "pressContinue": "Presione el botón 'siguiente' para continuar.",
-    "onePlusOne": "Uno + Uno = Dos"
+    "onePlusOne": "Uno + Uno = Dos",
+    "newGame": "Nuevo Juego",
+    "continue": "Continuar",
+    "level0" : "Nivel 0"
   },
   "zh": {
     "welcome": "欢迎！",

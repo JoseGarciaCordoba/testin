@@ -4,12 +4,16 @@
       "welcome": 20,
       "readyToPlay": 20,
       "missionFailed": 50,
+      "gameOverMessage1" : 55,
+      "gameOverMessage2" : 55,
+      "gameOverMessage3" : 55,
       "missionCompleted": 20,
       "onePlusOne": 30,
       "newGame": 20,
       "continue": 20,
       "mission1Subtitle": 130,
       "mission2Subtitle": 130,
+      "mission3Subtitle": 130,
       "level": 20,
       "level1": 138,
       "level1.1" : 138,
@@ -20,7 +24,12 @@
       "level2.1": 138,
       "level2.2": 138,
       "level2.3": 138,
-      "level2.4": 138
+      "level2.4": 138,
+      "level3": 138,
+      "level3.1": 138,
+      "level3.2": 138,
+      "level3.3": 138,
+      "level3.4": 138
     }
   },
   "en": {
@@ -33,6 +42,7 @@
     "continue": "Continue",
     "mission1Subtitle": "Prevent garbage from flowing through the river polluting the water and help 20 fish to cross. Good luck!",
     "mission2Subtitle": "You must repopulate the forest. It also prevents the water tank from being contaminated. If you succeed, the animals will return to their natural environment.",
+    "mission3Subtitle": "You must find a balance between the consumption of resources, the manufacture of products and the natural environment. Good luck!",
     "level": "Level",
     "level1": "Humans in their daily activity generate garbage and waste, which if they reach the water flow, can cause problems for the environment.",
     "level1.1": "The water from the rivers is used by humans to drink, irrigate, cultivate... besides, water is vital for plants and animals.",
@@ -43,7 +53,15 @@
     "level2.1": "Look at the clouds, the air is clean, there is a slight breeze and everything seems to be in balance.",
     "level2.2": "But agriculture and intensive livestock farming have caused the animals to flee to other areas.",
     "level2.3": "You have to help me to repopulate the forest, cultivating flowers, plants and trees so that the animals return.",
-    "level2.4": "Although sometimes the water used for irrigation can be contaminated, avoid watering at that time and clean the tank."
+    "level2.4": "Although sometimes the water used for irrigation can be contaminated, avoid watering at that time and clean the tank.",
+    "level3" : "At this level you must find a balance between the consumption of natural resources by humans and nature itself.",
+    "level3.1": "You must control the traffic between the warehouse and the factory. With the STOP button you will stop the transport and resume.",
+    "level3.2": "The forest naturally separates various habitats, if changes occur, they will affect the way of life of people and animals.",
+    "level3.3": "Your objective is to produce goods for people, without exceeding the over-exploitation of resources and avoiding pollution.",
+    "level3.4": "At this level you only have to click on the STOP buttons to avoid problems in the environment. Good luck!",
+    "gameOverMessage1": "The factory ran out of wood to manufacture.",
+    "gameOverMessage2": "The factory overheated and began to pollute.",
+    "gameOverMessage3": "The animals changed their habitat and affected the rest."
   },
   "es": {
     "welcome": "¡Bienvenido!",
@@ -55,6 +73,7 @@
     "continue": "Continuar",
     "mission1Subtitle": "Impide que la basura circule por el río contaminando el agua y ayuda a 20 peces a cruzar. Mucha Suerte!",
     "mission2Subtitle": "Debes repoblar el bosque. También evita que el depósito de agua se contamine. Si lo logras, los animales volverán a su entorno natural.",
+    "mission3Subtitle": "Debe encontrar un equilibrio entre el consumo de recursos, la fabricación de productos y el entorno natural. Mucha suerte!",
     "level": "Nivel",
     "level1" : "El humano en su actividad cotidiana, genera basuras y desperdicios, que si llegan al flujo del agua, puede causar problemas para el entorno.",
     "level1.1" : "El agua de los ríos es utilizado por los humanos para beber, regar, cultivar... además el agua es vital para las plantas y animales.",
@@ -65,6 +84,14 @@
     "level2.1": "Mira las nubes, el aire el limpio, corre una ligera brisa y todo parece en equilibrio.",
     "level2.2": "Pero la agricultura y la ganadería intensiva han provocado que los animales huyan hacia otras zonas.",
     "level2.3": "Tienes que ayudarme a repoblar el bosque, cultivando flores, plantas y arboles para que regresen los animales.",
-    "level2.4": "Aunque a veces el agua que se utiliza para regar, puede venir contaminada, evita regar en ese momento y limpia el depósito."
+    "level2.4": "Aunque a veces el agua que se utiliza para regar, puede venir contaminada, evita regar en ese momento y limpia el depósito.",
+    "level3" : "En este nivel debes encontrar un equilibrio entre el consumo de recursos naturales por el ser humano y la propia naturaleza.",
+    "level3.1": "Debes controlar el tráfico entre el almacén y la fábrica. Con el botón de STOP pararás el transporte y lo reanudarás cuando desees.",
+    "level3.2": "El bosque separa de forma natural varios hábitats, si se producen cambios, éstos afectarán a la forma de vida de personas y animales.",
+    "level3.3": "Tu objetivo es producir bienes para las personas, sin exceder la sobre-explotación de recursos y evitar la contaminación.",
+    "level3.4": "En este nivel únicamente debes pulsar sobre los botones de STOP para evitar problemas en el medio ambiente. Suerte!",
+    "gameOverMessage1": "La fabrica se quedó sin madera para fabricar",
+    "gameOverMessage2": "La fabrica se sobrecalentó y comenzó a contaminar.",
+    "gameOverMessage3": "Los animales cambiaron de habitat y afectaron al resto"
   }
 }

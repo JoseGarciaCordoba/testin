@@ -20,7 +20,8 @@
       "destination": 50,
       "population": 40,
       "resources": 25,
-      "pollution": 25
+      "pollution": 25,
+      "titleSavePlanet": 20
     }
   },
   "en": {
@@ -43,7 +44,8 @@
     "destination": "Destination Planet: EARTH       Destination Year: 2023",
     "population": "Human Population (billions)",
     "resources": "Resources",
-    "pollution": "Pollution"
+    "pollution": "Pollution",
+    "titleSavePlanet": "Save The Planet"
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -65,6 +67,7 @@
     "destination": "Destino: Planeta TIERRA       Año Destino: 2023",
     "population": "Población Humana (billions)",
     "resources": "Recursos",
-    "pollution": "Contaminación"
+    "pollution": "Contaminación",
+    "titleSavePlanet": "Salva el Planeta"
   }
 }

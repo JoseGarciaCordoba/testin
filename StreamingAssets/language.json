@@ -21,7 +21,11 @@
       "population": 40,
       "resources": 25,
       "pollution": 25,
-      "titleSavePlanet": 20
+      "titleSavePlanet": 20,
+      "textIpadMove": 60,
+      "textIpadAction": 60,
+      "textPCMove": 60,
+      "textPCAction": 60
     }
   },
   "en": {
@@ -45,7 +49,11 @@
     "population": "Human Population (billions)",
     "resources": "Resources",
     "pollution": "Pollution",
-    "titleSavePlanet": "Save The Planet"
+    "titleSavePlanet": "Save The Planet",
+    "textIpadMove": "With this motion control, you can move the Robot in all directions.",
+    "textIpadAction": "This is the action button. You must press it when there is an action to perform.",
+    "textPCMove": "With these keys you will move the Robot in any direction.",
+    "textPCAction": "Press Space to perform any allowed action."
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -68,6 +76,10 @@
     "population": "Población Humana (billions)",
     "resources": "Recursos",
     "pollution": "Contaminación",
-    "titleSavePlanet": "Salva el Planeta"
+    "titleSavePlanet": "Salva el Planeta",
+    "textIpadMove": "Con este control de movimiento, puedes mover al Robot en todas direcciones.",
+    "textIpadAction": "Este es el botón de acción. Debes pulsarlo cuando haya alguna acción que realizar.",
+    "textPCMove": "Con estas teclas moverás al Robot en cualquier dirección. ",
+    "textPCAction": "Pulsa Espacio para realizar cualquier acción permitida."
   }
 }

@@ -32,8 +32,8 @@
       "noObjetive": 20,
       "tutorialInfo3": 60,
       "tutorialInfo4": 60,
-      "missionTutorial1" : 20
-
+      "missionTutorial1" : 20,
+      "missionCompleted": 20
     }
   },
   "en": {
@@ -68,7 +68,8 @@
     "noObjetive": "No Target Assigned",
     "tutorialInfo3": "Here you can see the current objective of the mission",
     "tutorialInfo4": "The arrow will indicate the direction to follow",
-    "missionTutorial1" : "Exit through the tunnel"
+    "missionTutorial1" : "Exit through the tunnel",
+    "missionCompleted": "Mission Accomplished"
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -101,6 +102,7 @@
     "noObjetive": "Sin Objetivo Asignado",
     "tutorialInfo3": "Aquí puedes ver el objetivo actual de la misión",
     "tutorialInfo4": "La flecha te indicará la dirección a seguir",
-    "missionTutorial1" : "Salir por el tunel"
+    "missionTutorial1" : "Salir por el tunel",
+    "missionCompleted": "Misión Cumplida"
   }
 }

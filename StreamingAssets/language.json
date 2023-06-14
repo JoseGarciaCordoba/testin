@@ -28,7 +28,11 @@
       "textPCAction": 60,
       "tutorialInfo1": 115,
       "tutorialInfo0": 30,
-      "tutorialInfo2": 30
+      "tutorialInfo2": 30,
+      "noObjetive": 20,
+      "tutorialInfo3": 60,
+      "tutorialInfo4": 60,
+      "missionTutorial1" : 20
 
     }
   },
@@ -60,7 +64,11 @@
     "textPCAction": "Press Space to perform any allowed action.",
     "tutorialInfo1": "Poster: The water is dangerous, you must cross the river as quickly as possible.",
     "tutorialInfo0": "Important information!!!",
-    "tutorialInfo2": "Solar energy will charge you"
+    "tutorialInfo2": "Solar energy will charge you",
+    "noObjetive": "No Target Assigned",
+    "tutorialInfo3": "Here you can see the current objective of the mission",
+    "tutorialInfo4": "The arrow will indicate the direction to follow",
+    "missionTutorial1" : "Exit through the tunnel"
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -90,6 +98,9 @@
     "textPCAction": "Pulsa Espacio para realizar cualquier acción permitida.",
     "tutorialInfo1": "Cartel: El agua es peligrosa, debes cruzar el rio lo más rapidamente posible.",
     "tutorialInfo0": "Información importante!!!",
-    "tutorialInfo2": "La energía solar te cargará"
+    "noObjetive": "Sin Objetivo Asignado",
+    "tutorialInfo3": "Aquí puedes ver el objetivo actual de la misión",
+    "tutorialInfo4": "La flecha te indicará la dirección a seguir",
+    "missionTutorial1" : "Salir por el tunel"
   }
 }

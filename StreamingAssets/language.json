@@ -25,7 +25,11 @@
       "textIpadMove": 60,
       "textIpadAction": 60,
       "textPCMove": 60,
-      "textPCAction": 60
+      "textPCAction": 60,
+      "tutorialInfo1": 115,
+      "tutorialInfo0": 30,
+      "tutorialInfo2": 30
+
     }
   },
   "en": {
@@ -53,7 +57,10 @@
     "textIpadMove": "With this motion control, you can move the Robot in all directions.",
     "textIpadAction": "This is the action button. You must press it when there is an action to perform.",
     "textPCMove": "With these keys you will move the Robot in any direction.",
-    "textPCAction": "Press Space to perform any allowed action."
+    "textPCAction": "Press Space to perform any allowed action.",
+    "tutorialInfo1": "Poster: The water is dangerous, you must cross the river as quickly as possible.",
+    "tutorialInfo0": "Important information!!!",
+    "tutorialInfo2": "Solar energy will charge you"
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -80,6 +87,9 @@
     "textIpadMove": "Con este control de movimiento, puedes mover al Robot en todas direcciones.",
     "textIpadAction": "Este es el botón de acción. Debes pulsarlo cuando haya alguna acción que realizar.",
     "textPCMove": "Con estas teclas moverás al Robot en cualquier dirección. ",
-    "textPCAction": "Pulsa Espacio para realizar cualquier acción permitida."
+    "textPCAction": "Pulsa Espacio para realizar cualquier acción permitida.",
+    "tutorialInfo1": "Cartel: El agua es peligrosa, debes cruzar el rio lo más rapidamente posible.",
+    "tutorialInfo0": "Información importante!!!",
+    "tutorialInfo2": "La energía solar te cargará"
   }
 }

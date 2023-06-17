@@ -35,7 +35,10 @@
       "missionTutorial1" : 20,
       "missionCompleted": 20,
       "practiceCompleted": 20,
-      "objectiveCompleted": 20
+      "objectiveCompleted": 20,
+      "level1Title": 30,
+      "level2Title": 30,
+      "level3Title": 30
     }
   },
   "en": {
@@ -73,7 +76,10 @@
     "missionTutorial1" : "Exit through the TUNNEL below",
     "missionCompleted": "Mission Accomplished",
     "practiceCompleted": "Practice Completed",
-    "objectiveCompleted": "Objective Completed"
+    "objectiveCompleted": "Objective Completed",
+    "level1Title": "Level 1: Ecological Education",
+    "level2Title": "Level 2: Technological Improvements",
+    "level3Title": "Level 3: Legislative Improvements"
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -109,6 +115,9 @@
     "missionTutorial1" : "Salir por el TUNEL de abajo",
     "missionCompleted": "Misión Cumplida",
     "practiceCompleted": "Práctica Completada",
-    "objectiveCompleted": "Objetivo Completado"
+    "objectiveCompleted": "Objetivo Completado",
+    "level1Title": "Nivel 1: Educación Ecológica",
+    "level2Title": "Nivel 2: Mejoras Tecnológicas",
+    "level3Title": "Nivel 3: Mejoras Legislativas"
   }
 }

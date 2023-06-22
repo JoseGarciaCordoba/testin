@@ -43,7 +43,8 @@
       "level1Objetive1": 30,
       "level1Objetive1.School": 30,
       "level1Dustman": 120,
-      "level1Concierge": 120
+      "level1Concierge": 120,
+      "level1Principal": 120
     }
   },
   "en": {
@@ -89,7 +90,8 @@
     "level1Objetive1": "Find the SCHOOL and ENTER",
     "level1Objetive1.School": "Find the School Director",
     "level1Dustman": "Dustman: You can't pass. I'm working. If you help me PICK UP the 4 GARBAGE items from the PARK, I'll let you through.",
-    "level1Concierge": "Concierge: If you are looking for the DIRECTOR of the SCHOOL, you should go in and look for him, he will be teaching SCIENCE. I open the door."
+    "level1Concierge": "Concierge: If you are looking for the DIRECTOR of the SCHOOL, you should go in and look for him, he will be teaching SCIENCE. I open the door.",
+    "level1Principal": "Principal: A Robot, how wonderful. Where do you come from? I'm amazed, it looks like a technology from the future. Let's talk."
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -134,6 +136,7 @@
     "level1Objetive1": "Encontrar el COLEGIO y ENTRAR",
     "level1Objetive1.School": "Encontrar al Director de la Escuela",
     "level1Dustman": "Basurero: No se puede pasar. Estoy trabajando. Si me ayudas a RECOGER los 4 objetos de BASURA del PARQUE, te dejo pasar.",
-    "level1Concierge": "Conserje: Si buscas al DIRECTOR de la ESCUELA, debes entrar y buscarlo, estará enseñando CIENCIAS. Te abro la puerta."
+    "level1Concierge": "Conserje: Si buscas al DIRECTOR de la ESCUELA, debes entrar y buscarlo, estará enseñando CIENCIAS. Te abro la puerta.",
+    "level1Principal": "Director: Un Robot, qué maravilla, ¿de dónde vienes? Estoy asombrado, parece de una tecnología del futuro. Hablemos."
   }
 }

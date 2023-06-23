@@ -44,7 +44,18 @@
       "level1Objetive1.School": 30,
       "level1Dustman": 120,
       "level1Concierge": 120,
-      "level1Principal": 120
+      "level1Principal": 120,
+      "populationGraph1": 140,
+      "populationGraph2": 140,
+      "populationGraph3": 140,
+      "populationGraph4": 140,
+      "populationGraph5": 140,
+      "populationGraph6": 140,
+      "populationGraph7": 140,
+      "populationGraph8": 140,
+      "populationGraph9": 140
+
+
     }
   },
   "en": {
@@ -91,7 +102,17 @@
     "level1Objetive1.School": "Find the School Director",
     "level1Dustman": "Dustman: You can't pass. I'm working. If you help me PICK UP the 4 GARBAGE items from the PARK, I'll let you through.",
     "level1Concierge": "Concierge: If you are looking for the DIRECTOR of the SCHOOL, you should go in and look for him, he will be teaching SCIENCE. I open the door.",
-    "level1Principal": "Principal: A Robot, how wonderful. Where do you come from? I'm amazed, it looks like a technology from the future. Let's talk."
+    "level1Principal": "Principal: A Robot, how wonderful. Where do you come from? I'm amazed, it looks like a technology from the future. Let's talk.",
+    "populationGraph1": "As you said, I am a Robot. I come from the FUTURE. What I have to tell you is vitally important.",
+    "populationGraph2": "In this device I will show you the evolution of the human population, the consumption of resources and the consequent pollution.",
+    "populationGraph3": "Here you can see the year of beginning of the graph. From the year 1850, to the year 2050.",
+    "populationGraph4": "And here the population of planet Earth in billions of people.",
+    "populationGraph5": "In this sidebar the contamination at a global level in each year.",
+    "populationGraph6": "And in this bar the consumption of natural resources in each year. Food, fuel, water, etc...",
+    "populationGraph7": "With this button you will increase years in the graph.",
+    "populationGraph8": "And with this button you can go back years in the graph.",
+    "populationGraph9": "When you have reviewed the graph with your students. You can exit by pressing this button."
+
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -137,6 +158,16 @@
     "level1Objetive1.School": "Encontrar al Director de la Escuela",
     "level1Dustman": "Basurero: No se puede pasar. Estoy trabajando. Si me ayudas a RECOGER los 4 objetos de BASURA del PARQUE, te dejo pasar.",
     "level1Concierge": "Conserje: Si buscas al DIRECTOR de la ESCUELA, debes entrar y buscarlo, estará enseñando CIENCIAS. Te abro la puerta.",
-    "level1Principal": "Director: Un Robot, qué maravilla, ¿de dónde vienes? Estoy asombrado, parece de una tecnología del futuro. Hablemos."
+    "level1Principal": "Director: Un Robot, qué maravilla, ¿de dónde vienes? Estoy asombrado, parece de una tecnología del futuro. Hablemos.",
+    "populationGraph1": "Como bien has dicho soy un Robot. Vengo del FUTURO. Lo que tengo que decirles es de vital importancia.",
+    "populationGraph2": "En este dispositivo le mostraré la evolución de la población humana, el consumo de recursos y la contaminación consecuente.",
+    "populationGraph3": "Aquí pueden ver el año de comienzo de la gráfica. Desde el año 1850, hasta el año 2050.",
+    "populationGraph4": "Y aquí la población del planeta Tierra en billones de personas.",
+    "populationGraph5": "En esta barra lateral la contaminación a nivel global en cada año.",
+    "populationGraph6": "Y en esta barra el consumo de recursos naturales en cada año. Alimentos, combustibles, agua, etc...",
+    "populationGraph7": "Con este botón aumentarás los años en la gráfica.",
+    "populationGraph8": "Y con este botón podrás retroceder años en la gráfica.",
+    "populationGraph9": "Cuando haya revisado la gráfica con sus alumnos. Puede salir pulsando este botón."
+
   }
 }

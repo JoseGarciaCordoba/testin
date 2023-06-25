@@ -54,7 +54,9 @@
       "populationGraph6": 140,
       "populationGraph7": 140,
       "populationGraph8": 140,
-      "populationGraph9": 140
+      "populationGraph9": 140,
+      "populationGraph10": 120,
+      "populationGraph11": 120
     }
   },
   "en": {
@@ -111,7 +113,10 @@
     "populationGraph6": "And in this bar the consumption of natural resources in each year. Food, fuel, water, etc...",
     "populationGraph7": "With this button you will increase years in the graph.",
     "populationGraph8": "And with this button you can go back years in the graph.",
-    "populationGraph9": "When you have reviewed the graph with your students. You can exit by pressing this button."
+    "populationGraph9": "When you have reviewed the graph with your students. You can exit by pressing this button.",
+    "populationGraph10": "With the different missions, you must ensure that the contamination does not exceed the maximum allowed.",
+    "populationGraph11": "With the different missions, you must ensure that the consumption of resources does not exceed the maximum allowed."
+
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -167,6 +172,8 @@
     "populationGraph6": "Y en esta barra el consumo de recursos naturales en cada año. Alimentos, combustibles, agua, etc...",
     "populationGraph7": "Con este botón aumentarás los años en la gráfica.",
     "populationGraph8": "Y con este botón podrás retroceder años en la gráfica.",
-    "populationGraph9": "Cuando haya revisado la gráfica con sus alumnos. Puede salir pulsando este botón."
+    "populationGraph9": "Cuando haya revisado la gráfica con sus alumnos. Puede salir pulsando este botón.",
+    "populationGraph10": "Con las diferentes misiones, debes asegurarte de que la contaminación no supere el máximo permitido.",
+    "populationGraph11": "Con las distintas misiones, debes lograr que el consumo de recursos no superen el máximo permitido."
   }
 }

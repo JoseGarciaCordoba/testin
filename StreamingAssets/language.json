@@ -84,7 +84,8 @@
       "classTeacher15": 120,
       "classTeacher16": 120,
       "classTeacher17": 120,
-      "classTeacher18": 120
+      "classTeacher18": 120,
+      "level1Completed": 120
     }
   },
   "en": {
@@ -171,7 +172,8 @@
     "classTeacher15": "- Participate in special waste collection programs such as batteries, used cooking oil, old electronic devices, etc...",
     "classTeacher16": "- Promote recycling in your community.",
     "classTeacher17": "Good!!! Let's put it into practice. Robot, give us a demo!",
-    "classTeacher18": "Come on!!!"
+    "classTeacher18": "Come on!!!",
+    "level1Completed": "Enter the industrial zone of the city."
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -257,6 +259,7 @@
     "classTeacher15": "- Participa en programas de recolección de residuos especiales como pilas, aceite de cocina usado, aparatos electrónicos viejos, etc...",
     "classTeacher16": "- Promueve el reciclaje en tu comunidad.",
     "classTeacher17": "Bien!!! Vamos a ponerlo en práctica. Robot, haznos una demostración!",
-    "classTeacher18": "Vamos!!!"
+    "classTeacher18": "Vamos!!!",
+    "level1Completed": "Entra en la zona industrial de la ciudad."
   }
 }

@@ -85,7 +85,9 @@
       "classTeacher16": 120,
       "classTeacher17": 120,
       "classTeacher18": 120,
-      "level1Completed": 120
+      "level1Completed": 120,
+      "level2Title" : 120,
+      "level2MissionCity" : 120
     }
   },
   "en": {
@@ -173,7 +175,9 @@
     "classTeacher16": "- Promote recycling in your community.",
     "classTeacher17": "Good!!! Let's put it into practice. Robot, give us a demo!",
     "classTeacher18": "Come on!!!",
-    "level1Completed": "Enter the industrial zone of the city."
+    "level1Completed": "Enter the industrial zone of the city.",
+    "level2Title" : "Level 2 - Technological Improvements",
+    "level2MissionCity" : "Go to the industrial factories"
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -260,6 +264,8 @@
     "classTeacher16": "- Promueve el reciclaje en tu comunidad.",
     "classTeacher17": "Bien!!! Vamos a ponerlo en práctica. Robot, haznos una demostración!",
     "classTeacher18": "Vamos!!!",
-    "level1Completed": "Entra en la zona industrial de la ciudad."
+    "level1Completed": "Entra en la zona industrial de la ciudad.",
+    "level2Title" : "Nivel 2 - Mejoras Tecnológicas",
+    "level2MissionCity" : "Ve hacia las fabricas insdustriales"
   }
 }

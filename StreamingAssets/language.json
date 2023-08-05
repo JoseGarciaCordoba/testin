@@ -115,7 +115,9 @@
       "factory.tour21":120,
       "factory.tour22":120,
       "factory.tour23":120,
-      "factory.tour24":120
+      "factory.tour24":120,
+      "level3Title":90,
+      "level3Mission":90
     }
   },
   "en": {
@@ -233,7 +235,10 @@
     "factory.tour21": "You can encourage your workers to come by public transport. The City Council gives aid to companies that promote it.",
     "factory.tour22": "This is the engine room.",
     "factory.tour23": "You can avoid using Gas and Oil. You can use solar panels and windmills to reduce energy consumption.",
-    "factory.tour24": "You can also recycle dirty water in a treatment plant. It will reduce water consumption and energy expenditure."
+    "factory.tour24": "You can also recycle dirty water in a treatment plant. It will reduce water consumption and energy expenditure.",
+    "level3Title": "Level 3 - Legislative Improvements",
+    "level3Mission": "Go up to the Town Hall"
+
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -350,6 +355,8 @@
     "factory.tour21": "Puede incentivar que sus trabajadores vengan en transporte público. El Ayuntamiento da ayudas a las empresas que lo promocionen.",
     "factory.tour22": "Esta es la sala de máquinas.",
     "factory.tour23": "Puede evitar utilizar Gas y Petroleo. Puede utilizar placas solares y molinos de viento para reducir el consumo de energia.",
-    "factory.tour24": "También puede reciclar el agua sucia en una depuradora. Reducirá el consumo de agua y el gasto energético."
+    "factory.tour24": "También puede reciclar el agua sucia en una depuradora. Reducirá el consumo de agua y el gasto energético.",
+    "level3Title": "Nivel 3 - Mejoras Legislativas",
+    "level3Mission": "Sube hasta el Ayuntamiento"
   }
 }

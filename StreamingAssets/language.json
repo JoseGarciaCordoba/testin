@@ -118,7 +118,14 @@
       "factory.tour24":120,
       "level3Title":90,
       "level3Mission":90,
-      "townhall.mission":40
+      "townhall.mission":40,
+      "dialogmayor.0":120,
+      "dialogmayor.1":120,
+      "dialogmayor.2":120,
+      "dialogmayor.3":120,
+      "dialogmayor.4":120,
+      "dialogmayor.5":120,
+      "dialogmayor.6":120
     }
   },
   "en": {
@@ -239,8 +246,14 @@
     "factory.tour24": "You can also recycle dirty water in a treatment plant. It will reduce water consumption and energy expenditure.",
     "level3Title": "Level 3 - Legislative Improvements",
     "level3Mission": "Go up to the Town Hall",
-    "townhall.mission": "Talk to the Mayor"
-
+    "townhall.mission": "Talk to the Mayor",
+    "dialogmayor.0": "Robot: We have many things to explain to you to improve the health of the planet, save energy, natural resources and reduce pollution.",
+    "dialogmayor.1": "Mayor: Okay, I'll be happy to help you.",
+    "dialogmayor.2": "Manager: I have many proposals to save energy and reduce pollution in business and technology.",
+    "dialogmayor.3": "Teacher: I have many proposals in the field of education and social awareness.",
+    "dialogmayor.4": "Police: I have several proposals in the field of security and law.",
+    "dialogmayor.5": "Dog: (Dog language: I have many ideas to improve the environment and biodiversity)",
+    "dialogmayor.6": "Mayor: Perfect! Let's get to work immediately."
   },
   "es": {
     "newGame": "Nuevo Juego",
@@ -360,6 +373,13 @@
     "factory.tour24": "También puede reciclar el agua sucia en una depuradora. Reducirá el consumo de agua y el gasto energético.",
     "level3Title": "Nivel 3 - Mejoras Legislativas",
     "level3Mission": "Sube hasta el Ayuntamiento",
-    "townhall.mission": "Hablar con el Alcalde"
+    "townhall.mission": "Hablar con el Alcalde",
+    "dialogmayor.0": "Robot: Tenemos muchas cosas que explicarle para mejorar la salud del planeta, ahorrar enegía, recursos naturales y reducir la contaminación.",
+    "dialogmayor.1": "Alcalde: Está bien, estaré encantado de ayudarles.",
+    "dialogmayor.2": "Gerente: Tengo muchas propuestas para ahorrar energía y reducir la contaminación en el ámbito empresarial y tecnológico.",
+    "dialogmayor.3": "Profesor: Yo tengo muchas propuestas en el ámbito de la educación y concienciación social.",
+    "dialogmayor.4": "Policía: Yo tengo varias propuestas en el ámbito de seguridad y legal.",
+    "dialogmayor.5": "Perro: (Idioma perruno: Tengo muchas ideas para mejorar el medio ambiente y la biodiversidad)",
+    "dialogmayor.6": "Alcalde: Perfecto!, pongámonos a trabajar de inmediato."
   }
 }
